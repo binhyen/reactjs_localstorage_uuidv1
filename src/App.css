@@ -1,3 +1,8 @@
+body {
+  font-family: "Segoe UI",Roboto,"Helvetica Neue",Arial,"Noto Sans",sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol","Noto Color Emoji";
+  /* font-family: 'Roboto', sans-serif; */
+}
+
 .App {
   text-align: center;
 }
@@ -35,4 +40,8 @@
   to {
     transform: rotate(360deg);
   }
+}
+
+.search-align {
+  text-align: left;
 }
